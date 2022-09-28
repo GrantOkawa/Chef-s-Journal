@@ -1,0 +1,20 @@
+{
+  "name": "chef-s-journal",
+  "version": "1.0.0",
+  "description": "App to keep track of recipes for chefs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GrantOkawa/Chef-s-Journal.git"
+  },
+  "author": "Grant Okawa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GrantOkawa/Chef-s-Journal/issues"
+  },
+  "homepage": "https://github.com/GrantOkawa/Chef-s-Journal#readme"
+}
