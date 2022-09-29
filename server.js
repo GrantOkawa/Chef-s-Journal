@@ -39,7 +39,7 @@ app.use(methodOverride("_method"));
 // Setup Sessions - stored in MongoDB
 app.use(
   session({
-    secret: "meditate",
+    secret: "keyboard cat",
     resave: false,
     saveUninitialized: false,
     store: new MongoStore({ mongooseConnection: mongoose.connection }),
